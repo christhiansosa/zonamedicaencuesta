@@ -1,6 +1,0 @@
-{
-	"name": "encuesta",
-  	"permissions": [
-    	"http://*/*"
-  	]
-}
